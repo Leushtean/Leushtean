@@ -9,5 +9,13 @@ $(function(){
 
    });
 
+   $(".star").rateYo({
+      spacing: "1px",
+      starWidth: "18px",
+      ratedFill: "#ffc35b",
+      normalFill: "#ccccce",
+      readOnly: true
+   });
+
 
 });
