@@ -9,3 +9,4 @@ dist/
 node-modules/
 package-lock.json
 app/css/*
+node_modules
